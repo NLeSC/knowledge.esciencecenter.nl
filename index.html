@@ -5,18 +5,20 @@ layout: default
 <div class="home">
 
 <p>
-Netherlands eScience Center Knowledge Base.
+The NLeSC Knowledge Base captures eScience knowledge and best practices. It is comprised of a collection of books, most written by NLeSC engineers.
 </p>
 
 <div class="books">
     {% for book in site.books %}
     <div class="book">
         <a href="{{ book.url }}">
-            <table><tr><td>
+            <table><tr><td rowspan=2>
                 <img class="cover" src="{{ book.cover }}"/>
             </td><td>
                 <h2>{{ book.title }}</h2>
-            </td></tr></table>
+            </td></tr>
+	    <tr><td>{{ book.author }}</td></tr>
+	    </table>
             <p>
                 {{ book.content }}
             </p>

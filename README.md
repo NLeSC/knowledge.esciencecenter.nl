@@ -12,6 +12,14 @@ NLeSC knowledge website
 
 3. Fill main body with short description of book.
 
+## Generating cover image
+
+If you have a pdf of a book you can create an cover by coverting the first page using imagemagick:
+
+```
+convert book.pdf[0] book-cover.png
+```
+
 ## Preview website
 
 The website uses Jekyll powered Github pages.
