@@ -210,13 +210,6 @@
     margin: 5px;
     padding: 5px;
     overflow: auto;
-}
-
-.book:hover {
-   background: darken($background-color, 1%);
-}
-
-.book > a, {
     color: inherit;
     display: block;
     text-decoration: none;
@@ -224,22 +217,29 @@
     width: 450px;
 }
 
+.book a {
+   text-decoration: none;
+}
+
+.book:hover {
+   background: darken($background-color, 1%);
+}
+
 .cover {
     box-shadow: 0px 0px 1px 1px $grey-color-dark;
-    display: block;
-    width: 64px;
-    height: 91px;
+#    display: block;
+    float: left;
+    height: 150px;
+    width: 117px;
+    margin: 5px;
 }
 
 .book h2 {
     margin-bottom: 2px;
     color: $brand-color;
+    text-decoration: none;
 }
 
 .book p {
     margin-bottom: 2px;
-}
-
-.book td {
-     font-weight: bold;
 }

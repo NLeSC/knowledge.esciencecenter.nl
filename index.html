@@ -12,17 +12,12 @@ The NLeSC Knowledge Base captures eScience knowledge and best practices. It is c
     {% for book in site.books %}
     <div class="book">
         <a href="{{ book.url }}">
-            <table><tr><td rowspan=2>
-                <img class="cover" src="{{ book.cover }}"/>
-            </td><td>
-                <h2>{{ book.title }}</h2>
-            </td></tr>
-	    <tr><td>{{ book.author }}</td></tr>
-	    </table>
-            <p>
-                {{ book.content }}
-            </p>
-        </a>
+	    <img class="cover" src="{{ book.cover }}"/>
+	    <h2>{{ book.title }}</h2>
+	    <h3>{{ book.author }}</h3>
+	    <div style="clear:both;"></div>
+ 	    <p>{{ book.content }}</p>
+       </a>
     </div>
     {% endfor %}
 </div>
