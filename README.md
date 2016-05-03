@@ -9,6 +9,8 @@ NLeSC knowledge website
     * title: Human readable name of book.
     * url: Url of book (e.g. pdf or GitBook).
     * cover: Url of cover image
+    * author: Author(s) of book
+    * date: Release date
 
 3. Fill main body with short description of book.
 
