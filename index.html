@@ -12,7 +12,7 @@ The NLeSC Knowledge Base captures eScience knowledge and best practices. It is c
     {% assign sorted = (site.books | sort: 'date') | reverse %}
     {% for book in sorted %}
     <div class="book">
-        <a href="{{ book.url }}">
+        <a href="{{ book.link }}">
 	    <img class="cover" src="{{ book.cover }}"/>
 	    <h2>{{ book.title }}</h2>
 	    <h3>{{ book.author }}</h3>

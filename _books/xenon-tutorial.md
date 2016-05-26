@@ -1,6 +1,6 @@
 ---
 title: Tutorial - Distributed Computing with Xenon
-url: content/xenon-tutorial.pdf
+link: content/xenon-tutorial.pdf
 cover: covers/xenon-tutorial-cover.png
 author: Jurriaan H. Spaaks
 date: 2016-02-01

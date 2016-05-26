@@ -1,6 +1,6 @@
 ---
 title: CERN ROOT conda recipes
-url: https://nlesc.gitbooks.io/cern-root-conda-recipes/content/
+link: https://nlesc.gitbooks.io/cern-root-conda-recipes/content/
 cover: covers/root-conda-cover.png
 author: Daniela Remenska
 date: 2016-03-01

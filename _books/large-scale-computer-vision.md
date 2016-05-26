@@ -1,6 +1,6 @@
 ---
 title: Large Scale Computer Vision
-url: content/LargeScaleComputerVision.pdf
+link: content/LargeScaleComputerVision.pdf
 cover: covers/LargeScaleComputerVision-cover.png
 author: Elena Ranguelova
 date: 2015-08-12

@@ -1,6 +1,6 @@
 ---
 title: Summer in the City
-url: https://nlesc.gitbooks.io/summerinthecity/content/
+link: https://nlesc.gitbooks.io/summerinthecity/content/
 cover: covers/summerinthecity-cover.png
 author: Jisk Attema
 date: 2016-03-01

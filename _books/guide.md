@@ -1,6 +1,6 @@
 ---
 title: NLeSC Guide
-url: https://nlesc.gitbooks.io/guide/content/
+link: https://nlesc.gitbooks.io/guide/content/
 cover: covers/guide-cover.png
 author: The NLeSC Engineers
 ---

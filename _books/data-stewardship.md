@@ -1,6 +1,6 @@
 ---
 title: Data-Stewardship in the Big Data Era
-url: content/DataStewardship_Final.pdf
+link: content/DataStewardship_Final.pdf
 cover: covers/data-stewardship.png
 author: NLeSC Management Team and Integrators
 date: 2013-01-01

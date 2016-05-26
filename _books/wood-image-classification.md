@@ -1,6 +1,6 @@
 ---
 title: Wood Image Classification - Initial Results
-url: content/WoodImageClassificationInitialResults.pdf
+link: content/WoodImageClassificationInitialResults.pdf
 cover: covers/WoodImageClassificationInitialResults-cover.png
 author: Elena Ranguelova
 date: 2016-05-26
